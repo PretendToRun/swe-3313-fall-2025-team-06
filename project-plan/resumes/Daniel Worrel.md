@@ -23,7 +23,7 @@ _Graduation: [expected graduation]_
 
 ## Work Experience
 
-#### [Insert job title], _[insert company name])_  
+### [Insert job title], _[insert company name])_  
 _Month XXXX – Month XXXX_  
 - Bullet 1
 - Bullet 2
@@ -31,7 +31,7 @@ _Month XXXX – Month XXXX_
 - Bullet 4 
 
 
-#### [Insert job title], _[insert company name])_  
+### [Insert job title], _[insert company name])_  
 _Month XXXX – Month XXXX_  
 - Bullet 1
 - Bullet 2
@@ -41,14 +41,14 @@ _Month XXXX – Month XXXX_
 ---
 ## Projects
 
-#### [insert project title]  
+### [insert project title]  
 _Month xxxx – Month xxxx_  
 - Bullet 1
 - Bullet 2
 - Bullet 3
 - Bullet 4
 
-#### [insert project title]  
+### [insert project title]  
 _Month xxxx – Month xxxx_  
 - Bullet 1
 - Bullet 2
