@@ -22,7 +22,7 @@ _Graduation: May 2027_
 
 ## Experience
 
-#### Innovation Lab and AI Program Intern, _Georgia Technology Authority (GTA)_  
+### Innovation Lab and AI Program Intern, _Georgia Technology Authority (GTA)_  
 _June 2025 – Present_  
 - Coordinated with state agencies and partners to analyze business problems, gather requirements, and draft Statements of Need (SONs).  
 - Assisted with RFP development and vendor evaluation by coordinating with procurement and reviewing proposals.  
@@ -30,34 +30,38 @@ _June 2025 – Present_
 - Facilitated stakeholder alignment by creating presentations, workshops, and demos to communicate product vision and progress.
 
 
-#### Chief Marketing Officer, _Aerial Robotics Competition Team_  
+### Marketing Assistant, _Kennesaw State University_  
+_June 2025 – Present_  
+- Planned and executed outreach strategies to promote programs and events.  
+- Developed content and communications to drive student engagement.  
+- Designed physical marketing content
+
+
+### Chief Marketing Officer, _Aerial Robotics Competition Team_  
 _May 2024 – Present_  
 - Led outreach initiatives to build relationships between internal departments and external entities.  
 - Directed and managed a team of 10 to plan and execute marketing campaigns.  
 - Facilitated cross-functional collaboration across engineering, finance, marketing, and operations.  
 - Secured project funding by presenting budget proposals to stakeholders.
 
-
-#### Marketing Assistant, _Kennesaw State University_  
-_June 2024 – Present_  
-- Planned and executed outreach strategies to promote programs and events.  
-- Developed content and communications to drive student engagement.  
-- Designed physical marketing content
-
-
-#### AI Product Development Researcher, _Kennesaw State University_  
+  
+### AI Product Development Researcher, _Kennesaw State University_  
 _May 2024 – July 2025_  
 - Conducted user interviews to define product requirements.  
 - Developed and prioritized requirements for a Kotlin-based interface supporting multimodal input.  
 - Managed the project lifecycle from concept to prototype, aligning development with user needs.  
 - Synthesized research into actionable insights and communicated via presentations and published literature.  
 
+---
 
-#### AI Developer, _Aerial Robotics Competition Team_  
+## Projects
+
+### AI Landing Zone Detection System  
 _December 2023 – May 2024_  
 - Defined specifications for AI-powered landing zone detection.  
 - Oversaw end-to-end system development and validation.  
-- Collaborated with design, manufacturing, and navigation teams to refine requirements and validate solutions.  
+- Collaborated with design, manufacturing, and navigation teams to refine requirements and validate solutions.
+ 
 
 ---
 
