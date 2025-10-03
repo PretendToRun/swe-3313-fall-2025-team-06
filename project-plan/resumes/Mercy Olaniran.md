@@ -1,8 +1,7 @@
 # Mercy Olaniran
 
 Marietta, GA 30060  
-[molanira@students.kennesaw.edu](mailto:molanira@students.kennesaw.edu) |  
-[LinkedIn](https://www.linkedin.com/in/mercyolaniran)
+[molanira@students.kennesaw.edu](mailto:molanira@students.kennesaw.edu) |  [LinkedIn](https://www.linkedin.com/in/mercyolaniran)
 
 ---
 
@@ -15,7 +14,7 @@ _Graduation: May 2027_
 
 ---
 
-## 🛠 Skills
+## Skills
 **Technical:** MS Excel, PowerPoint, Jira, Asana, Java, Python, Kotlin, Confluence, GitHub, Microsoft Suite, TensorFlow, PyTorch, Machine Learning, UI/UX Prototyping  
 **Soft Skills:** Market & Data Analysis, Requirements Gathering, Product Design, Business Problem Analysis, Statement of Need (SON) Development, RFP Management, Stakeholder Engagement, Project Coordination, Communication & Public Speaking, Research & Analytical Thinking
 
