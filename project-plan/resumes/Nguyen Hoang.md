@@ -26,18 +26,18 @@ nhoang3\@students.kennesaw.edu \| [LinkedIn](https://www.linkedin.com/in/nguyenh
 
 ### Part-Time Clerk, *QuikTrip*
 
-*September 2023 – Current*\
-- Organize and maintained filing systems for confidential documents.\
-- Operate the cash register to process cash, checks, and credit card transactions.\
-- Maintain inventory levels of office supplies and equipment as needed.\
+*September 2023 – Current*
+- Organize and maintained filing systems for confidential documents.
+- Operate the cash register to process cash, checks, and credit card transactions.
+- Maintain inventory levels of office supplies and equipment as needed.
 
 ### Sales Assistant, *Dog Gone Good Disc Golf*
 
-*March 2023 – July 2024*\
+*March 2023 – July 2024*
 - Assist in creating displays to promote products\
-- Organize stockroom shelves, racks, and bins according to the store layout and product categories\
-- Analyze customer feedback data to identify areas for improvement within the store's services\
-- Meet with customers to offer assistance with selecting merchandise, finding accessories, and completing purchases.\
+- Organize stockroom shelves, racks, and bins according to the store layout and product categories
+- Analyze customer feedback data to identify areas for improvement within the store's services
+- Meet with customers to offer assistance with selecting merchandise, finding accessories, and completing purchases.
 
 ## Organizations
 
