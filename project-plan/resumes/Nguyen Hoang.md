@@ -34,7 +34,7 @@ nhoang3\@students.kennesaw.edu \| [LinkedIn](https://www.linkedin.com/in/nguyenh
 ### Sales Assistant, *Dog Gone Good Disc Golf*
 
 *March 2023 – July 2024*
-- Assist in creating displays to promote products\
+- Assist in creating displays to promote products
 - Organize stockroom shelves, racks, and bins according to the store layout and product categories
 - Analyze customer feedback data to identify areas for improvement within the store's services
 - Meet with customers to offer assistance with selecting merchandise, finding accessories, and completing purchases.
