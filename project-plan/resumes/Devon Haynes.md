@@ -1,69 +1,69 @@
 # Devon Haynes
 
-Marietta, GA 30060  
-[Insert email here ](mailto:insert email here) |  [LinkedIn](Put Linkedin or delete this part)
+Marietta, GA 30060
+dhayne33@students.kennesaw.edu | [LinkedIn](https://www.linkedin.com/in/devon-haynes-99515630b/)
 
 ---
 
 ## Education
-**Kennesaw State University** — Marietta, GA  
-**[Insert major]** | GPA: [insert GPA]  
-_Graduation: [expected graduation]_
+**Kennesaw State University** — Marietta, GA
+**Bachelor of Science in Computer Science** | GPA: 3.91
+_Graduation: May 2028_
 
-**Relevant Coursework:** [insert relevant coursework]
+**Relevant Coursework:** Programming Problem Solving I & II, Honors Data Structures, Introduction to Software Engineering, Computer Organization and Architecture
 
 ---
 
 ## Skills
-**Technical:** [insert technical skills]  
-**Soft Skills:** [insert soft skills]  
+**Technical:** Java, C#, Verse, Unity, UEFN, Google Workspace, Adobe Illustrator, Adobe Photoshop, Cyberlink Powerdirector
+**Soft Skills:** Logical Problem Solving, Product Design, Effective Communication
 
 ---
 
-## Work Experience
+## Experience
 
-### [Insert job title], _[insert company name])_  
-_Month XXXX – Month XXXX_  
-- Bullet 1
-- Bullet 2
-- Bullet 3
-- Bullet 4 
+### The Print Shop @ Paul Duke, _Paul Duke STEM Highschool_
+_August 2023 - May 2024_
+- Created designs for printing
+- Compiled products (weeding, heat pressing, etc.)
+- Prepared products for sale
 
+### Dreamspace XR Lab, _Kennesaw State University_
+_September 2024 - Present_
+- Participated in multiple first-year projects as part of funded research program
+- Researched XR implementation in education
+- Currently researching the application of Large Language Models (LLMs) to enhance learning in XR
 
-### [Insert job title], _[insert company name])_  
-_Month XXXX – Month XXXX_  
-- Bullet 1
-- Bullet 2
-- Bullet 3
-- Bullet 4 
+### Ghost Gaming Launchpad, _Ghost Gaming_
+_July 2025 - Present_
+- Pursuing entrepreneurship in game development through independent projects made in UEFN
 
 ---
+
 ## Projects
 
-### [insert project title]  
-_Month xxxx – Month xxxx_  
-- Bullet 1
-- Bullet 2
-- Bullet 3
-- Bullet 4
+### XR DNA Damage and Repair Education
+_September 2024 - Present_
+- Studying the application of XR in education
+- Testing the effect of multi-user and LLM-powered systems on learning efficiency and engagement
+- Creating prototype for user study and publication
 
-### [insert project title]  
-_Month xxxx – Month xxxx_  
-- Bullet 1
-- Bullet 2
-- Bullet 3
-- Bullet 4 
-
+### IEEE XR 3DUI Contest 2025 Submission
+_October 2024 - February 2025_
+- Joined team of senior researchers for project submission
+- Researched and prototyped the novel user interaction World-in-Miniature (WiM)
 
 ---
 
 ## Organizations
-- Organization 1
-- Organization 2
-- Organization 3
+- Game Design and Development Club
+- Upsilon Pi Epsilon Computing Honors Society
+- CCSE Media Advisory Council
 
 ---
 
 ## Awards
-- Award 1
-- Award 2 
+- KSU President's List, Fall 2024
+- KSU CCSE Dean's List, Spring 2025
+- 1st Place, GDDC Fall Game Jam
+- 1st Place, KSU Hackathon for Social Wellbeing
